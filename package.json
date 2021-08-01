@@ -1,0 +1,31 @@
+{
+  "name": "gtrs-api",
+  "version": "1.0.0",
+  "description": "Inner api for gametracker.rs",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "puppeteer": "^5.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kallefrombosnia/gtrs-api.git"
+  },
+  "keywords": [
+    "cs",
+    "git",
+    "gtrs",
+    "boost"
+  ],
+  "author": "kalle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kallefrombosnia/gtrs-api/issues"
+  },
+  "homepage": "https://github.com/kallefrombosnia/gtrs-api#readme"
+}
